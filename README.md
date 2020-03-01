@@ -1,7 +1,7 @@
 # Evaluation of Multi-Modal MRI Images for Brain Tumor Segmentations
 
 This is an implementation of evaluation of MRI modalities for the segementation of brain tumors with use of UNET using keras and python. 
-more details on this work is on this paper[Multi-Modal MRI Images for Brain Tumor Segmentations](https://ieeexplore.ieee.org/abstract/document/8994408)
+more details on this work is on this paper [Multi-Modal MRI Images for Brain Tumor Segmentations](https://ieeexplore.ieee.org/abstract/document/8994408)
 
 ## Installation
 
